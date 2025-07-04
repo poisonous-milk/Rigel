@@ -33,13 +33,13 @@ However, **all usage (including free use) must be registered** with the author v
 
 | Number of Agents Deployed | License Requirement                | 使用说明 |
 |---------------------------|------------------------------------|----------|
-| ≤ 1000 agents             | Free, but registration required    | 免费使用，需登记 |
-| 1001–5000 agents          | Commercial license required        | 需购买商业授权 |
+| ≤ 1000 agents             | Free, but registration required    | 免费使用，无需登记 |
+| 1001–5000 agents          | Commercial license required        | 免费使用，需登记 |
 | > 5000 agents             | One-time enterprise license fee    | 需一次性企业授权费用 |
 
 To obtain a commercial license, please contact:  
 如需商业授权，请联系：  
-📮 **jiaming@yourdomain.com**
+📮 **jchen233@alumni.jh.edu**
 
 ---
 
@@ -54,7 +54,7 @@ You may NOT:
 禁止以下行为：
 - 将本软件作为 SaaS 或托管服务提供给第三方
 - 未登记部署使用本软件（即使部署数量 ≤ 1000）
-- 未获得商业许可的前提下部署超过 1000 台 agent
+- 未获许可的前提下部署超过 1000 台 agent
 - 未获得企业许可的前提下部署超过 5000 台 agent
 
 ---
